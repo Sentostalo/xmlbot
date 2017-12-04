@@ -1,5 +1,5 @@
 # xmlbot
 XMLBot, a Discord bot written using discord.py to perform Atelier801 related tasks.
 
-Please do not create a copy of this bot for your own use, instead, [private message me](https://atelier801.com/new-dialog?ad=Drescen&subject=XMLBot%20-%20Server%20add%20request) on the Atelier801 forums and I will add the bot to your server.
+Please do not create a copy of this bot for your own use. If you wish to use this bot ask for a server invite link [here](https://atelier801.com/topic?f=6&t=855149).
 
